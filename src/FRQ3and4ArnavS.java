@@ -287,20 +287,20 @@ public void playGame()
 
   if(player1Coins == player2Coins) {
 
-      System.out.println("tie game");
+      System.out.println("This game has ended in a tie");
   }
   /*If player 1 has more coins than player 2, player 1 wins
 
   else if(player1Coins > player2Coins) {
 
-      System.out.println("player 1 wins");
+      System.out.println("player 1 won this time");
 
        }
 
   /*If player 2 has more coins than player 1, player 2 wins
 
   else if(player1Coins < player2Coins) {
-      System.out.println("player 2 wins");}
+      System.out.println("player 2 won this time");}
 }
 
  */
